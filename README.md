@@ -1,2 +1,5 @@
 # hello-world
-Learning Git\Hub
+
+Hey dude!
+
+What's up?  Just writing meaningless text...
